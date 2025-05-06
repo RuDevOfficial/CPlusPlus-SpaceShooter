@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<WAVEDATA>
+	<WAVE>
+		<TIME>2</TIME>
+		<ENEMIES>
+			<ENEMY character="<" health="1" moveTime="0.8" position="10" points="1" />
+		</ENEMIES>
+	</WAVE>
+	<WAVE>
+		<TIME>2</TIME>
+		<ENEMIES>
+			<ENEMY character="<" health="1" moveTime="0.8" position="10" points="1" />
+		</ENEMIES>
+	</WAVE>
+	<WAVE>
+		<TIME>2</TIME>
+		<ENEMIES>
+			<ENEMY character="<" health="1" moveTime="0.8" position="10" points="1" />
+		</ENEMIES>
+	</WAVE>
+	<WAVE>
+		<TIME>1</TIME>
+		<ENEMIES>
+			<ENEMY character="+" health="1" moveTime="0" position="28" points="6" />
+		</ENEMIES>
+	</WAVE>
+	<WAVE>
+		<TIME>5</TIME>
+		<ENEMIES>
+			<ENEMY character="o" health="4" moveTime="0.8" position="4" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="5" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="6" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="7" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="8" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="9" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="10" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="11" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="12" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="13" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="14" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="15" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="16" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="17" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="18" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="19" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="20" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="21" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="22" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="23" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="24" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="25" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="26" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="27" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="28" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="29" points="1" />
+			<ENEMY character="|" health="99" moveTime="0.8" position="30" points="1" />
+		</ENEMIES>
+	</WAVE>
+	<WAVE>
+		<TIME>1</TIME>
+		<ENEMIES>
+			<ENEMY character="+" health="1" moveTime="0" position="20" points="2" />
+		</ENEMIES>
+	</WAVE>
+	<WAVE>
+		<TIME>1</TIME>
+		<ENEMIES>
+			<ENEMY character="+" health="1" moveTime="0" position="22" points="2" />
+		</ENEMIES>
+	</WAVE>
+	<WAVE>
+		<TIME>2</TIME>
+		<ENEMIES>
+			<ENEMY character="<" health="1" moveTime="0.8" position="26" points="1" />
+		</ENEMIES>
+	</WAVE>
+	<WAVE>
+		<TIME>2</TIME>
+		<ENEMIES>
+			<ENEMY character="<" health="1" moveTime="0.8" position="26" points="1" />
+		</ENEMIES>
+	</WAVE>
+	<WAVE>
+		<TIME>2</TIME>
+		<ENEMIES>
+			<ENEMY character="<" health="1" moveTime="0.8" position="26" points="1" />
+		</ENEMIES>
+	</WAVE>
+</WAVEDATA>

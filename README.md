@@ -1,1 +1,1 @@
-![]([my_video.mov](https://i.imgur.com/ISFF7fT.mp4))
+![](https://i.imgur.com/14vFJYd.gif)
